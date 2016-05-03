@@ -1,0 +1,30 @@
+body {
+  background: #f0f0f0;
+  min-height: 100vh;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  padding: 100px 60px;
+}
+
+.col-3 {
+  width: 33%;
+}
+
+.level-wrapper {
+  padding: 10px;
+}
+
+.level-item {
+  padding: 10px;
+  background: #fff;
+}
+
+.level-item a {
+  text-transform: uppercase;
+}

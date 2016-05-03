@@ -30,6 +30,8 @@ TEMPLATE_DIRS = (
   BASE_DIR + '/levels/templates/',
 )
 
+STATIC_ROOT = os.path.join(BASE_DIR, "levels/static/")
+
 # Application definition
 
 INSTALLED_APPS = (
